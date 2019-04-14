@@ -1,0 +1,11 @@
+blog.csdn.net##.recommend-item-box.recommend-ad-box
+blog.csdn.net##div[style="100%;"]
+blog.csdn.net##aside
+blog.csdn.net##.pulllog-box
+blog.csdn.net###csdn-toolbar
+blog.csdn.net##.indexSuperise
+blog.csdn.net##.recommend-box
+blog.csdn.net##.comment-box
+blog.csdn.net##.recommend-fixed-box
+zhihu.com##.TopstoryItem--advertCard
+zhihu.com##.Pc-card.Card
